@@ -69,7 +69,7 @@ npm run dev
 
 ## 🖼️ Captura de Tela
 
-> `![screenshot](./screenshot.png)`
+> `![screenshot](https://raw.githubusercontent.com/YagoTeles/Broker-Monitor/main/screenshot.png)`
 
 ---
 
