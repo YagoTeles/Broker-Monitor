@@ -69,7 +69,7 @@ npm run dev
 
 ## 🖼️ Captura de Tela
 
-> `![screenshot](/screenshot.png)`
+> `![screenshot](./screenshot.png)`
 
 ---
 
